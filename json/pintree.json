@@ -38,7 +38,43 @@
                 "url": "https://www.bgrdh.com/"
               }
         ]
-      }
+      },
+      {
+        "type": "folder",
+        "addDate": 1718526865665,
+        "title": "云服务",
+        "children": [
+          {
+                "type": "link",
+                "addDate": 1727280303254,
+                "title": "注册登录-有道云笔记｜亿万用户的选择",
+                "icon": "https://logo.clearbit.com/note.youdao.com",
+                "url": "https://note.youdao.com/signIn/index.html?&callback=https://note.youdao.com/web/&from=web"
+          },
+              {
+                "type": "link",
+                "addDate": 1727280592095,
+                "title": "「简道云官网」零代码应用搭建平台",
+                "icon": "https://logo.clearbit.com/www.jiandaoyun.com",
+                "url": "https://www.jiandaoyun.com/"
+              }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1718526865665,
+        "title": "工具",
+        "children": [
+           {
+                "type": "link",
+                "addDate": 1727280584774,
+                "title": "超级飞侠第十三季 第3集 - 少儿 - 高清完整版在线观看 - 西瓜视频",
+                "icon": "https://logo.clearbit.com/www.ixigua.com",
+                "url": "https://www.ixigua.com/7169464590953087518?id=7169464934789874190&logTag=f971a6dbf5162ecca86c"
+           }
+        ]
+      },
+      
     ]
   }
 ]
